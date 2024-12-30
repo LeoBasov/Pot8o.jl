@@ -4,7 +4,11 @@ authors = ["Leo Basov <basov.leo@gmail.com>"]
 version = "0.1.0"
 
 [deps]
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+T8code = "d0cc0030-9a40-4274-8435-baadcfd54fa1"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
+MPI = "0.20.22"
+T8code = "0.7.4"
 Test = "1.11.0"
