@@ -5,12 +5,10 @@ version = "0.1.0"
 
 [deps]
 MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
-MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
 T8code = "d0cc0030-9a40-4274-8435-baadcfd54fa1"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 MPI = "0.20.22"
-MPIPreferences = "0.1.11"
 T8code = "0.7.4"
 Test = "1.11.0"
